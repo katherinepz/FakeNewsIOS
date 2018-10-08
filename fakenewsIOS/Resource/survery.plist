@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>t</key>
+		<string>2</string>
+		<key>q</key>
+		<string>What is your age?</string>
+		<key>k</key>
+		<string>age</string>
+	</dict>
+	<dict>
+		<key>t</key>
+		<string>1</string>
+		<key>q</key>
+		<string>What is your preferred pronoun when referring to yourself?(We will use this pronoun when referring to the user&apos;s data.For instance, &quot;the user agreed to allow us to analyse his/her/their data</string>
+		<key>a</key>
+		<array>
+			<string>he/his</string>
+			<string>she/her</string>
+			<string>they/their</string>
+			<string>other</string>
+			<string>prefer not to answer</string>
+		</array>
+		<key>k</key>
+		<string>pronoun</string>
+	</dict>
+	<dict>
+		<key>t</key>
+		<string>1</string>
+		<key>q</key>
+		<string>Are you of Aboriginal or Torres Strait Islander origin?</string>
+		<key>a</key>
+		<array>
+			<string>No</string>
+			<string>Yes aboriginal</string>
+			<string>Yes Torres Strait Islander</string>
+		</array>
+		<key>k</key>
+		<string>aboriginal</string>
+	</dict>
+	<dict>
+		<key>t</key>
+		<string>3</string>
+		<key>q</key>
+		<string>Identify my ethnicity as(select all that apply):</string>
+		<key>a</key>
+		<array>
+			<string>Asian</string>
+			<string>American</string>
+			<string>Caucasian</string>
+			<string>Hispanic/Latin</string>
+			<string>Indigenous Australia</string>
+			<string>Pacific Islander</string>
+			<string>Prefer not to respond</string>
+			<string>Other</string>
+		</array>
+		<key>k</key>
+		<string>ethnicity</string>
+	</dict>
+	<dict>
+		<key>t</key>
+		<string>2</string>
+		<key>q</key>
+		<string>What country do you identify as being from:</string>
+		<key>k</key>
+		<string>country</string>
+	</dict>
+	<dict>
+		<key>t</key>
+		<string>4</string>
+		<key>q</key>
+		<string>Are you currently enrolled as a university student?</string>
+		<key>a</key>
+		<array>
+			<string>Yes</string>
+			<string>No</string>
+		</array>
+		<key>k</key>
+		<string>isUniStudent</string>
+	</dict>
+	<dict>
+		<key>t</key>
+		<string>1</string>
+		<key>q</key>
+		<string>What is the highest level of education that you have completed?</string>
+		<key>a</key>
+		<array>
+			<string>NO</string>
+			<string>High school or equivalent</string>
+			<string>Some university</string>
+			<string>Bachelor&apos;s Degree</string>
+			<string>Master&apos;s Degree</string>
+			<string>Phd or Adnanced Graduate Work</string>
+			<string>Not sure</string>
+			<string>Prefer not to answer</string>
+		</array>
+		<key>k</key>
+		<string>highestEducation</string>
+	</dict>
+	<dict>
+		<key>t</key>
+		<string>4</string>
+		<key>q</key>
+		<string>Do you follow the news(either by reading the newspaper or reading new online)?</string>
+		<key>a</key>
+		<array>
+			<string>Yes</string>
+			<string>No</string>
+		</array>
+		<key>k</key>
+		<string>followNews</string>
+	</dict>
+	<dict>
+		<key>k</key>
+		<string>hearAboutNewsMostFreq</string>
+		<key>t</key>
+		<string>3</string>
+		<key>q</key>
+		<string>Where to you hear about news stories most frequently?(select any that apply)</string>
+		<key>a</key>
+		<array>
+			<string>Newspapers</string>
+			<string>Magazines</string>
+			<string>Australian websites</string>
+			<string>Other websites</string>
+			<string>US websites</string>
+			<string>Social media</string>
+			<string>Word of Mouth</string>
+			<string>Prefer not to answer</string>
+		</array>
+	</dict>
+</array>
+</plist>
